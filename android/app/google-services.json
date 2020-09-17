@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "719058458933",
+    "firebase_url": "https://straight-up-chat.firebaseio.com",
+    "project_id": "straight-up-chat",
+    "storage_bucket": "straight-up-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719058458933:android:fa0371b53c9c284aed547c",
+        "android_client_info": {
+          "package_name": "com.example.straightup_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719058458933-ugfe84l72v0v3d0k67mf5guuqclcg6fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRM3UiCdZ_bE5ci5JvBEdrUL8EC_-YyKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719058458933-ugfe84l72v0v3d0k67mf5guuqclcg6fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
